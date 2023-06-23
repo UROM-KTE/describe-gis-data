@@ -1,0 +1,16 @@
+/venv
+
+/.idea
+*.iml
+
+/data
+*.shp
+*.shx
+*.dbf
+*.prj
+*.sbn
+*.sqlite
+*.gpkg
+*.tif
+*.tiff
+*.json
