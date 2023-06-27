@@ -4,6 +4,7 @@
 *.iml
 
 /data
+/results
 *.shp
 *.shx
 *.dbf
@@ -14,3 +15,5 @@
 *.tif
 *.tiff
 *.json
+
+/src/.ipynb_checkpoints/
