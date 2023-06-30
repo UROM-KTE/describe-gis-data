@@ -9,13 +9,17 @@
 
 ### Oleaster (Eleagnus angustifolia) coverage investigation in the South Heves Grasslands Landscape Protection Area in 2023
 
-* version 1.1.0:
+* version 1.1.0: 2023-06-30
     - add custom classification
+    - excel writing update
+    - added translations
+    - updated diagrams
+    - pandas version update
 * version 1.0.0: 2023-06-27
     - creates csv files with the results of the analysis
     - creates an Excel file with the results of the analysis
     - creates diagrams to show the results of the analysis
     - creates a geopackage with the classifications
 * TBD:
-    - define constants in the notebook
+    - path constants in the notebook
 
