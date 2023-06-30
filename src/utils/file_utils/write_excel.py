@@ -18,7 +18,7 @@ def update_excel_sheet_name_if_exists(file_name: str, sheet_name: str) -> str:
     if Path(file_name).exists():
         file = pandas.ExcelFile(file_name)
         sheets = file.sheet_names
-        if sheet_name in sheets:
+        while sheet_name in sheets:
             sheet_name = sheet_name + '_01'
     return sheet_name
 
