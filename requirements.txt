@@ -1,6 +1,5 @@
 jupyter~=1.0.0
 numpy~=1.25.0
-plotly~=5.15.0
 pandas~=2.0.3
 geopandas~=0.13.2
 matplotlib~=3.7.1
