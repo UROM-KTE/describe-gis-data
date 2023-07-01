@@ -85,6 +85,7 @@ class AreaStatistics:
             self.language['mean']: areas.mean(),
             self.language['median']: areas.median(),
             self.language['std']: areas.std(),
+            self.language['var']: areas.var(),
             self.language['minimum']: areas.min(),
             self.language['first_quartile']: areas.quantile(0.25),
             self.language['second_quartile']: areas.quantile(0.5),

@@ -22,6 +22,7 @@ languages = {
         'equal_interval_study_area_pie_chart_diagram_title': 'The proportion of areas covered with oleasters according '
                                                              'to each group of equal intervals for the entire study '
                                                              'area',
+        'estimated_individuals': 'Estimated individuals',
         'estimated_maximum_individuals': 'Estimated maximum individuals',
         'estimated_minimum_individuals': 'Estimated minimum individuals',
         'experimental_area_ratio': 'Experimental area ratio',
@@ -64,6 +65,7 @@ languages = {
         'sub_areas': 'Sub-areas',
         'sum': 'Sum',
         'third_quartile': 'Third quartile',
+        'var': 'Variation',
     },
     'hu': {
         'area': 'terület',
@@ -87,6 +89,7 @@ languages = {
                                                    'területen',
         'equal_interval_study_area_pie_chart_diagram_title': 'Az ezüstfa területarányának megoszlása az egyenlő '
                                                         'intervallumok szerint a teljes vizsgált területen',
+        'estimated_individuals': 'becsült egyedszámok',
         'estimated_maximum_individuals': 'becsült maximum egyedszám',
         'estimated_minimum_individuals': 'becsült minimum egyedszám',
         'experimental_area_ratio': 'vizsgált terület aránya',
@@ -131,6 +134,7 @@ languages = {
         'sub_areas': 'részterületek',
         'sum': 'összeg',
         'third_quartile': 'harmadik kvartilis',
+        'var': 'variancia',
     },
 }
 
