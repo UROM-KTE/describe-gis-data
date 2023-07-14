@@ -1,8 +1,8 @@
 jupyter~=1.0.0
-numpy~=1.25.0
+numpy~=1.25.1
 pandas~=2.0.3
 geopandas~=0.13.2
-matplotlib~=3.7.1
+matplotlib~=3.7.2
 geodatasets~=2023.3.0
-jenkspy~=0.3.2
+jenkspy~=0.3.3
 openpyxl~=3.1.2 # Though it is only used by pandas it has not installed with it.
